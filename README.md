@@ -5,6 +5,14 @@ A self-contained demo of a torque **prediction** model (LSTM), a **controller UI
 **What runs without proprietary data:** the UI, LSTM inference, and RL control on the included example drive cycles.  
 The LSTM **training** script is provided for completeness and requires your private dataset.
 
+## Publications
+- *Improved Diesel Engine Load Control for Heavy-Duty Transient Testing Using Gain-Scheduling & Feed-Forward Algorithms.* SAE Technical Paper 03-16-06-0042.  
+  [Read on SAE Mobilus](https://saemobilus.sae.org/articles/improved-diesel-engine-load-control-heavy-duty-transient-testing-using-gain-scheduling-feed-forward-algorithms-03-16-06-0042)
+
+- *[Title]* SAE Technical Paper **2021-01-1178**.  
+  [Read on SAE](https://www.sae.org/publications/technical-papers/content/2021-01-1178/)
+
+
 
 ## Contents
 - `ModelUI.py` — Qt app that loads **Speed** and **Desired Torque** CSVs and runs a drive cycle in **Manual**, **PID**, or **RL**.  

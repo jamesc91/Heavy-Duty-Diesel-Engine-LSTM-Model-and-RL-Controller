@@ -9,7 +9,7 @@ The LSTM **training** script is provided for completeness and requires your priv
 - *Improved Diesel Engine Load Control for Heavy-Duty Transient Testing Using Gain-Scheduling & Feed-Forward Algorithms.* SAE Technical Paper 03-16-06-0042.  
   [Read on SAE Mobilus](https://saemobilus.sae.org/articles/improved-diesel-engine-load-control-heavy-duty-transient-testing-using-gain-scheduling-feed-forward-algorithms-03-16-06-0042)
 
-- *[Title]* SAE Technical Paper **2021-01-1178**.  
+- *Simultaneous Control Optimization of Variable-Geometry Turbocharger and High Pressure EGR on a Medium Duty Diesel Engine.* SAE Technical Paper **2021-01-1178**.  
   [Read on SAE](https://www.sae.org/publications/technical-papers/content/2021-01-1178/)
 
 
